@@ -2,6 +2,7 @@
 .virtual_documents
 data/.ipynb_checkpoints/
 img/
+data/
 img.html
 *.jpg
 *.png
@@ -26,5 +27,6 @@ img.html
 *.flac
 *.aac
 *.m4a
+
 
 .env
